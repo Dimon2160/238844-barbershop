@@ -1,6 +1,8 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Дмитрий Кузнецов](https://up.htmlacademy.ru/htmlcss/17/user/238844).
+* Наставник: [Сергей Рубец](https://htmlacademy.ru/profile/id41580).
+
 
 ---
 
